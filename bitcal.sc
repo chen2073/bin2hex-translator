@@ -4,7 +4,6 @@
 ;;	apply
 ;;	max
 ;;	set-difference
-;;Call "convert" with a constant or a list
 
 ;;set one bit or a list of max of 0-3 bits and calculate the hexdecimal value
 (define (set-bit x)
