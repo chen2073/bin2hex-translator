@@ -95,16 +95,3 @@
 ;;final conversion of the hex value;
 (define (convert input)
   (if (number? input) (result-one input) (result input)))
-
-
-
-
-
-
-
-
-
-
-
-
-
